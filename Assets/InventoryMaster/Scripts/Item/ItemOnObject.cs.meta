@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e183a0fcf91889441a73da5cab2cf034
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26310
+  packageName: Inventory Master - uGUI
+  packageVersion: 4.6.8
+  assetPath: Assets/InventoryMaster/Scripts/Item/ItemOnObject.cs
+  uploadId: 55639

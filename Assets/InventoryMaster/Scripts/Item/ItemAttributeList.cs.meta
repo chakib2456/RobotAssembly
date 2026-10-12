@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8cd1f9bae7bc9ba46a4f16cbffa4534d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26310
+  packageName: Inventory Master - uGUI
+  packageVersion: 4.6.8
+  assetPath: Assets/InventoryMaster/Scripts/Item/ItemAttributeList.cs
+  uploadId: 55639

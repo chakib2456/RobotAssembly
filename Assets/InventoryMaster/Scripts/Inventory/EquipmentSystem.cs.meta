@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 73c01820065a20d4b9355552215eb5ec
+timeCreated: 1425911319
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26310
+  packageName: Inventory Master - uGUI
+  packageVersion: 4.6.8
+  assetPath: Assets/InventoryMaster/Scripts/Inventory/EquipmentSystem.cs
+  uploadId: 55639

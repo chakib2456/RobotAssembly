@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9d6d4ea42497984b92b4afb1e150f83
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26310
+  packageName: Inventory Master - uGUI
+  packageVersion: 4.6.8
+  assetPath: Assets/InventoryMaster/Scripts/CraftSystem/RightClick.cs
+  uploadId: 55639

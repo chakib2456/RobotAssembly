@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8532555244486889541
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1225727056144257523}
+  - component: {fileID: 6200342233277604693}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: LevelManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1225727056144257523
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532555244486889541}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.4738636, y: -0.4798689, z: -1.9773571}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6200342233277604693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532555244486889541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aaef88bf35951d498ea872fbd53978e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gridManager: {fileID: 0}
+  floorPrefab: {fileID: 5573406125654133995, guid: 626831309651c094da727bb0b44f4fe9, type: 3}
+  robotPrefab: {fileID: 6421048315295539547, guid: 2a634a87477ed1f498a85a2457e10296, type: 3}
+  wallPrefab: {fileID: 1497648562852240115, guid: 543918b12957885459ab4322606a062b, type: 3}
+  goalPrefab: {fileID: 1608037712526886860, guid: 97a013b9e18773e4ba3254d47d5d2209, type: 3}
+  doorPrefab: {fileID: 1497648562852240115, guid: 868cacc12b699804e95bfbcaa6248b29, type: 3}
+  boxPrefab: {fileID: 891567597041485408, guid: 8ae7c70bb2b9ee64aa4a4032e57359db, type: 3}
+  firePrefab: {fileID: 891567597041485408, guid: bb385387270afb649bf111812dbf72f2, type: 3}
+  triggerPrefab: {fileID: 1608037712526886860, guid: 628f6658897a9c543a2c5a6903cf1fbd, type: 3}
+  levelFile: {fileID: 4900000, guid: bad31d5474772b542b8aaca0d2ce17c6, type: 3}
+  countFire: 1
+  floorParent: {fileID: 0}

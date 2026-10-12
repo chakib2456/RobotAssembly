@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54b62b71aaf685041ae3488261059b4b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26310
+  packageName: Inventory Master - uGUI
+  packageVersion: 4.6.8
+  assetPath: Assets/InventoryMaster/Scripts/CraftSystem/CraftSystem.cs
+  uploadId: 55639

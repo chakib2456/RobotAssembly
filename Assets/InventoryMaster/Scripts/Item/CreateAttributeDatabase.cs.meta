@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dfb99810334c8084faba4326b8f70b8a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26310
+  packageName: Inventory Master - uGUI
+  packageVersion: 4.6.8
+  assetPath: Assets/InventoryMaster/Scripts/Item/CreateAttributeDatabase.cs
+  uploadId: 55639

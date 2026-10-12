@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a149b2e02bb902944a859c760b098c16
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26310
+  packageName: Inventory Master - uGUI
+  packageVersion: 4.6.8
+  assetPath: Assets/InventoryMaster/Scripts/Hotbar/Hotbar.cs
+  uploadId: 55639

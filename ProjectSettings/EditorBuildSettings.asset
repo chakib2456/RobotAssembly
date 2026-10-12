@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/MainMenue.unity
+    guid: 72ffcb109aee3a941ae12c0f0f02354b
+  - enabled: 1
+    path: Assets/_Scenes/TutorialLevel.unity
+    guid: 65173911c08760d43aa51ded1888fc02
+  - enabled: 1
+    path: Assets/_Scenes/Level1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_Scenes/Level_2.unity
+    guid: ecd9647cbe6954441b6a8ea3800cc11d
+  - enabled: 1
+    path: Assets/_Scenes/Level_3.unity
+    guid: 869b076a4fcd1464cb9174d117bec778
+  - enabled: 1
+    path: Assets/_Scenes/Level_4.unity
+    guid: b56ee28eb32c60d4e9703fd41e777036
+  - enabled: 1
+    path: Assets/_Scenes/Endgame.unity
+    guid: 31b67dc14bb51b0489218986435c36f3
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

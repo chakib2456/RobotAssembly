@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f1b26731a4b650428b0f0a07c9e7758
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26310
+  packageName: Inventory Master - uGUI
+  packageVersion: 4.6.8
+  assetPath: Assets/InventoryMaster/Scripts/Item/CreateItemDatabase.cs
+  uploadId: 55639

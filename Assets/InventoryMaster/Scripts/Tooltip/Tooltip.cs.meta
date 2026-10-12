@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9dfd73a08607fe94b948106d59dfd0d2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26310
+  packageName: Inventory Master - uGUI
+  packageVersion: 4.6.8
+  assetPath: Assets/InventoryMaster/Scripts/Tooltip/Tooltip.cs
+  uploadId: 55639

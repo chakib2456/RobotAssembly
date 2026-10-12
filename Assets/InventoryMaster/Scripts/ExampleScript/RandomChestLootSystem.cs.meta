@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1443f8c42d337441be4caeb86cbb100
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26310
+  packageName: Inventory Master - uGUI
+  packageVersion: 4.6.8
+  assetPath: Assets/InventoryMaster/Scripts/ExampleScript/RandomChestLootSystem.cs
+  uploadId: 55639

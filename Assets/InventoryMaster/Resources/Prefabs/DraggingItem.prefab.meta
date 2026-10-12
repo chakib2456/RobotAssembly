@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 2af5d33a89bbcd5429f9dca7d340fa20
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26310
+  packageName: Inventory Master - uGUI
+  packageVersion: 4.6.8
+  assetPath: Assets/InventoryMaster/Resources/Prefabs/DraggingItem.prefab
+  uploadId: 55639
